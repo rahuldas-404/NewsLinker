@@ -5,13 +5,18 @@ best-outlined news articles from the app.
 
 
 ## Screenshots
-![Alt text](./Screenshot/app1.jpeg)
-![Alt text](./Screenshot/app2.jpeg)
-![Alt text](./Screenshot/app3.jpeg)
-![Alt text](./Screenshot/app4.jpeg)
-![Alt text](./Screenshot/app5.jpeg)
-![Alt text](./Screenshot/app6.jpeg)
-![Alt text](./Screenshot/app7.jpeg)
+| App pic1                            | App pic2                            |  
+| ----------------------------------- | ----------------------------------- |
+| ![Alt text](./Screenshot/app1.jpeg) | ![Alt text](./Screenshot/app2.jpeg) |
+| App pic3                            | App pic4                            |  
+| ----------------------------------- | ----------------------------------- |
+| ![Alt text](./Screenshot/app3.jpeg) | ![Alt text](./Screenshot/app4.jpeg) |
+| App pic5                            | App pic6                            |  
+| ----------------------------------- | ----------------------------------- |
+| ![Alt text](./Screenshot/app5.jpeg) | ![Alt text](./Screenshot/app6.jpeg) |
+| App pic7                            |  
+| ----------------------------------- |
+| ![Alt text](./Screenshot/app7.jpeg) |
 
 ## Screenshots of Firebase Dashbord
 ![Alt text](./Screenshot/Screenshot.jpeg)
