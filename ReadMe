@@ -1,10 +1,10 @@
-#NewsLinker
+# NewsLinker
 
 A pseudo-mobile application(Android) that should list and open 
 best-outlined news articles from the app.
 
 
-##🛠 Technologies Used
+## 🛠 Technologies Used
 
 - Kotlin
 - Firebase
@@ -14,7 +14,7 @@ best-outlined news articles from the app.
 - Version Control Systems
 
 
-##Screenshots
+## Screenshots
 ![Alt text](Screenshot/app1.jpeg)
 ![Alt text](Screenshot/app2.jpeg)
 ![Alt text](Screenshot/app3.jpeg)
@@ -24,15 +24,15 @@ best-outlined news articles from the app.
 ![Alt text](Screenshot/app7.jpeg)
 
 
-##SDK version
+## SDK version
 
-####Minimum and Maximum SDK version
+#### Minimum and Maximum SDK version
 
 - Target SDK Version - 33
 - Minimum SDK version - 21
 
 
-#Task Completed:
+# Task Completed:
 - Use of Web API to fetch news details(Do not use any 3rd party Library 
 like retrofit only uses system APIs). 
 API - https://candidate-test-data-moengage.s3.amazonaws.com/Android/news-apifeed/staticResponse.json
@@ -47,5 +47,5 @@ Unicode and Null values.
 new-to-old. 
 
 
-#Demo Video Link:
+# Demo Video Link:
 https://youtu.be/5C8Q-BTdNPE?si=sfiqN61ukOFnB-V4
