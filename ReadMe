@@ -4,33 +4,18 @@ A pseudo-mobile application(Android) that should list and open
 best-outlined news articles from the app.
 
 
-## 🛠 Technologies Used
-
-- Kotlin
-- Firebase
-- XML
-- Android Studio
-- Gradle Build System
-- Version Control Systems
-
-
 ## Screenshots
-![Alt text](Screenshot/app1.jpeg)
-![Alt text](Screenshot/app2.jpeg)
-![Alt text](Screenshot/app3.jpeg)
-![Alt text](Screenshot/app4.jpeg)
-![Alt text](Screenshot/app5.jpeg)
-![Alt text](Screenshot/app6.jpeg)
-![Alt text](Screenshot/app7.jpeg)
+![Alt text](./Screenshot/app1.jpeg)
+![Alt text](./Screenshot/app2.jpeg)
+![Alt text](./Screenshot/app3.jpeg)
+![Alt text](./Screenshot/app4.jpeg)
+![Alt text](./Screenshot/app5.jpeg)
+![Alt text](./Screenshot/app6.jpeg)
+![Alt text](./Screenshot/app7.jpeg)
 
-
-## SDK version
-
-#### Minimum and Maximum SDK version
-
-- Target SDK Version - 33
-- Minimum SDK version - 21
-
+## Screenshots of Firebase Dashbord
+![Alt text](./Screenshot/Screenshot.jpeg)
+![Alt text](./Screenshot/firebase2.jpeg)
 
 # Task Completed:
 - Use of Web API to fetch news details(Do not use any 3rd party Library 
@@ -46,6 +31,21 @@ Unicode and Null values.
 — Implement a feature to sort and list articles based on old-to-new and 
 new-to-old. 
 
+## 🛠 Technologies Used
+
+- Kotlin
+- Firebase
+- XML
+- Android Studio
+- Gradle Build System
+- Version Control Systems
+
+## SDK version
+
+#### Minimum and Maximum SDK version
+
+- Target SDK Version - 33
+- Minimum SDK version - 21
 
 # Demo Video Link:
 https://youtu.be/5C8Q-BTdNPE?si=sfiqN61ukOFnB-V4
