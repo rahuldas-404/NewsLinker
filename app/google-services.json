@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185063528045",
+    "project_id": "newslinker-404",
+    "storage_bucket": "newslinker-404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185063528045:android:19417437d80f9f5a209164",
+        "android_client_info": {
+          "package_name": "com.example.newsarticlesdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlEasKOjDRB0_VF2-RJNMXCdFKPUBaKE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

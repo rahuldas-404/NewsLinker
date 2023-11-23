@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsLinker</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="news">News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="new_">New</string>
+    <string name="old">Old</string>
+    <string name="sort">Sort</string>
+</resources>

@@ -1,0 +1,12 @@
+1] Used only Kotlin programming language to develop the application
+2] Used of Web API to fetch news details(Did not use any 3rd party Library
+like retrofit only use System APIs).
+API - https://candidate-test-data-moengage.s3.amazonaws.com/Android/news-api-feed/staticResponse.json
+3] Implemented visually interactive design to list details.
+4]  Implement Firebase Cloud Messaging to receive and show notifications.
+5] Custom design, font, and icons added to make app more user friendly.
+6] Added saved , unsaved feature
+7] Code neatly commented
+8] Handled null values.
+9] Implemented a feature to sort and list articles based on old-to-new and
+new-to-old. 
