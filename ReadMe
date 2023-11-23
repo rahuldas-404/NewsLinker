@@ -1,10 +1,10 @@
-# NewsLinker
+#NewsLinker
 
 A pseudo-Mobile application(Android) that should list and open 
 best-outlinked news articles from the app.
 
 
-## 🛠 Technologies Used
+##🛠 Technologies Used
 
 - Kotlin
 - Firebase
@@ -14,12 +14,12 @@ best-outlinked news articles from the app.
 - Version Control Systems
 
 
-## Screenshots
+##Screenshots
 ![Alt text](image link)
 
-##  SDK version
+##SDK version
 
-#### Minimum and Maximum SDK version
+####Minimum and Maximum SDK version
 
 - Target SDK Version - 33
 - Minimum SDK version - 21
